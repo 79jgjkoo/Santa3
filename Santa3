@@ -5,97 +5,6 @@ local args = {
             [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
             [3] = 1
         },
-        [2] = "z"
-    }
-}
-
-game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
-wait(.1)
-local args = {
-    [1] = {
-        [1] = {
-            [1] = "SantaTVMan",
-            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
-            [3] = 1
-        },
-        [2] = "a"
-    }
-}
-
-game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
-wait(.1)
-local args = {
-    [1] = {
-        [1] = {
-            [1] = "SantaTVMan",
-            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
-            [3] = 1
-        },
-        [2] = "f"
-    }
-}
-
-game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
-wait(.1)
-local args = {
-    [1] = {
-        [1] = {
-            [1] = "SantaTVMan",
-            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
-            [3] = 1
-        },
-        [2] = "r"
-    }
-}
-
-game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
-wait(.1)
-local args = {
-    [1] = {
-        [1] = {
-            [1] = "SantaTVMan",
-            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
-            [3] = 1
-        },
-        [2] = "x"
-    }
-}
-
-game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
-wait(.1)
-local args = {
-    [1] = {
-        [1] = {
-            [1] = "SantaTVMan",
-            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
-            [3] = 1
-        },
-        [2] = "e"
-    }
-}
-
-game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
-wait(.1)
-local args = {
-    [1] = {
-        [1] = {
-            [1] = "SantaTVMan",
-            [2] = Vector3.new(97.06085205078125, 20.933870315551758, 137.47792053222656),
-            [3] = 1
-        },
-        [2] = "1"
-    }
-}
-
-game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
-wait(.1)
-local args = {
-    [1] = {
-        [1] = {
-            [1] = "SantaTVMan",
-            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
-            [3] = 1
-        },
         [2] = "1"
     }
 }
@@ -166,4 +75,303 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
-wait(6)
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "a"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "b"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "c"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "d"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "e"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "f"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "g"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "h"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "i"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "j"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "k"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "l"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "m"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "o"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "o"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "p"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "q"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "u"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)\
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "v"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "w"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "x"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "y"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "z"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
