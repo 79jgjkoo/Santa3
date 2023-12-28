@@ -1,0 +1,169 @@
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "z"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "a"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "f"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "r"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "x"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "e"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(97.06085205078125, 20.933870315551758, 137.47792053222656),
+            [3] = 1
+        },
+        [2] = "1"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "1"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "2"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "3"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "4"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "5"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(.1)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "SantaTVMan",
+            [2] = Vector3.new(88.93450164794922, 20.933870315551758, 137.89755249023438),
+            [3] = 1
+        },
+        [2] = "6"
+    }
+}
+
+game:GetService("ReplicatedStorage").dataRemoteEvent:FireServer(unpack(args))
+wait(6)
